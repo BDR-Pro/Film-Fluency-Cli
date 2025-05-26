@@ -1,0 +1,6 @@
+ffmpeg-python
+nltk
+textstat
+moviepy
+tqdm
+rich
